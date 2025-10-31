@@ -1,4 +1,4 @@
-```markdown
+
 # NoCodeStatsFHE: A Cutting-Edge Tool for Encrypted Data Analysis 📊🔒
 
 NoCodeStatsFHE is an innovative tool that empowers non-technical users, such as social scientists and market analysts, to perform statistical analysis on Fully Homomorphically Encrypted (FHE) datasets without writing a single line of code. This functionality is built on **Zama's Fully Homomorphic Encryption technology**, enabling secure and private data analysis across various fields, while ensuring sensitive information remains confidential.
